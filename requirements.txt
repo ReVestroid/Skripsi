@@ -5,5 +5,5 @@ pandas
 pyodbc
 Requests
 scikit_learn
-scikit_learn_extra
+scikit_learn_extra==0.3.0
 streamlit
