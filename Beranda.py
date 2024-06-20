@@ -4,7 +4,7 @@ import subprocess
 
 st.set_page_config(page_title="Aplikasi K-Medoids")
 st.title("Aplikasi Steam Menentukan Penjualan Game Terbaik K-Medoids")
-
+st.sidebar.title('Sidebar Example')
 # Function to execute the external script
 def run_external_script():
     subprocess.Popen(["C:/Program Files/Python312/python.exe", "e:/CRUD/Steam_Combine.py"])
