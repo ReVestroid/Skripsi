@@ -19,7 +19,7 @@ def main():
         st.write('You selected Option 1.')
         # Menjalankan file coba.py
         try:
-            subprocess.run(['python', 'Menu_5_Chart.py'])
+            subprocess.run(['python', 'Pages/Menu_5_Chart.py'])
         except Exception as e:
             st.error(f"Error running coba.py: {e}")
     elif option == 'Option 2':
