@@ -1,0 +1,201 @@
+rank,title,price,disc_price,persen_disc,review_data,percent_review,total_review
+1,Counter-Strike 2,0,0,0,Very Positive,87,8056087
+2,Ghost of Tsushima DIRECTOR'S CUT,879000,879000,0,Very Positive,88,8861
+3,Cyberpunk 2077,699999,349999,50,Very Positive,83,653117
+4,Dota 2,0,0,0,Very Positive,81,2239030
+5,ELDEN RING,599000,599000,0,Very Positive,92,603817
+6,HELLDIVERS 2,579000,579000,0,Mostly Positive,73,637090
+7,Hades II,245999,245999,0,Very Positive,94,32775
+8,Destiny 2,0,0,0,Very Positive,80,594135
+9,PUBG: BATTLEGROUNDS,0,0,0,Mixed,58,2360919
+10,V Rising,284999,256499,10,Very Positive,88,76964
+11,Apex Legends,0,0,0,Mostly Positive,77,827352
+12,Cyberpunk 2077: Phantom Liberty,349999,297499,15,Very Positive,89,14320
+13,Grand Theft Auto V,401000,153600,61,Very Positive,87,1638517
+14,Gray Zone Warfare,284999,284999,0,Mixed,66,38061
+15,Killing Floor 2,199999,9999,95,Very Positive,88,78076
+16,Tom Clancy's Rainbow Six Siege,229000,229000,0,Very Positive,85,1089309
+17,Dead by Daylight,149000,149000,0,Very Positive,80,522756
+18,Warframe,0,0,0,Very Positive,87,575837
+19,War Thunder,0,0,0,Mostly Positive,75,489502
+20,EA SPORTS FC 24,759000,759000,0,Mixed,56,61681
+21,Call of Duty: Warzone,0,0,0,Mostly Negative,32,34193
+22,Call of Duty: Modern Warfare III,1050000,1050000,0,Mostly Negative,32,9095
+23,Fallout 4,266000,266000,0,Very Positive,83,238243
+24,Assassin's Creed Odyssey,619000,92850,85,Very Positive,89,138286
+25,The Witcher 3: Wild Hunt,359999,90000,74,Overwhelmingly Positive,96,706197
+26,Sea of Thieves: 2024 Edition,379000,379000,0,Very Positive,90,281774
+27,ANIMAL WELL,211000,189900,10,Overwhelmingly Positive,96,6659
+28,Assassin's Creed Valhalla,619000,123800,80,Mostly Positive,70,19678
+29,The Elder Scrolls Online,266000,266000,0,Very Positive,83,120395
+30,Rust,289999,289999,0,Very Positive,87,872066
+31,Risk of Rain 2,119999,59999,50,Overwhelmingly Positive,96,182751
+32,Diablo IV,1050000,1050000,0,Mostly Positive,70,16591
+33,Hearts of Iron IV,536999,161099,70,Very Positive,91,206839
+34,NARAKA: BLADEPOINT,0,0,0,Mostly Positive,75,222414
+35,Cult of the Lamb,149999,89999,40,Very Positive,94,66390
+36,Total War: WARHAMMER III,648999,648999,0,Mixed,65,69963
+37,Dying Light,172700,172700,0,Overwhelmingly Positive,95,302764
+38,ELDEN RING Shadow of the Erdtree,599000,599000,0,No Data,0,0
+39,Black Desert,48999,14699,70,Mostly Positive,76,54594
+40,Valheim,108999,54499,50,Very Positive,94,385531
+41,World of Warships,0,0,0,Mostly Positive,77,138973
+42,Minecraft Dungeons,265000,132500,50,Very Positive,91,9739
+43,Rabbit and Steel,130999,130999,0,Overwhelmingly Positive,97,2880
+44,Jurassic World Evolution 2,449999,134999,70,Very Positive,88,22244
+45,Dead Cells,149999,74999,50,Overwhelmingly Positive,97,129499
+46,Lethal Company,90999,90999,0,Overwhelmingly Positive,97,319016
+47,Sons Of The Forest,245999,245999,0,Very Positive,86,171998
+48,Ratchet & Clank: Rift Apart,879000,527400,40,Very Positive,89,6019
+49,Assassin's Creed Origins,619000,92850,85,Very Positive,86,92199
+50,MULLET MADJACK,165999,149399,10,Overwhelmingly Positive,98,1497
+51,V Rising - Legacy of Castlevania Premium Pack,165999,165999,0,Very Positive,91,159
+52,Another Crab's Treasure,245999,245999,0,Overwhelmingly Positive,95,5383
+53,Palworld,245999,245999,0,Very Positive,93,258052
+54,Red Dead Redemption 2,640000,640000,0,Very Positive,91,526435
+55,Ready or Not,255999,255999,0,Very Positive,88,136999
+56,Lies of P,870000,609000,30,Very Positive,92,26276
+57,Hero's Land,0,0,0,Mixed,56,37454
+58,Forza Horizon 5,699000,699000,0,Very Positive,88,162475
+59,Enshrouded,239999,239999,0,Very Positive,86,44249
+60,Bellwright,245999,245999,0,Mostly Positive,77,4801
+61,Team Fortress 2,0,0,0,Very Positive,93,1045237
+62,Street Fighter 6,830999,830999,0,Very Positive,86,24231
+63,Men of War II,338999,338999,0,Mixed,59,1903
+64,Call of Duty: Black Ops III,891000,891000,0,Very Positive,87,124025
+65,Phasmophobia,89999,89999,0,Overwhelmingly Positive,96,549927
+66,Overwatch 2,0,0,0,Overwhelmingly Negative,18,265929
+67,Wallpaper Engine,37999,37999,0,No Data,0,0
+68,DJMAX RESPECT V,690000,138000,80,Very Positive,89,21966
+69,ARK: Survival Ascended,845999,676799,20,Mixed,58,47335
+70,Senua’s Saga: Hellblade II,745000,745000,0,No Data,0,0
+71,BeamNG.drive,206999,206999,0,Overwhelmingly Positive,97,227509
+72,Fallout: New Vegas,89999,89999,0,Overwhelmingly Positive,96,165908
+73,Bloons TD 6,89999,31499,65,Overwhelmingly Positive,97,271297
+74,Wizard with a Gun,206999,103499,50,Very Positive,80,1954
+75,Raft,135999,135999,0,Very Positive,93,265234
+76,Sker Ritual,206999,206999,0,Very Positive,85,3262
+77,Ultimate Chicken Horse,130000,45500,65,Overwhelmingly Positive,96,31270
+78,Hades,206999,206999,0,Overwhelmingly Positive,98,237406
+79,THE FINALS,0,0,0,Mostly Positive,75,163314
+80,Horizon Forbidden West Complete Edition,879000,879000,0,Very Positive,90,8165
+81,The Elder Scrolls V: Skyrim Special Edition,329999,329999,0,Very Positive,94,160126
+82,Watch_Dogs 2,619000,92850,85,Very Positive,82,66429
+83,Assassin’s Creed IV Black Flag,409000,122700,70,Very Positive,88,57589
+84,STAR WARS: The Old Republic,0,0,0,Very Positive,89,60510
+85,REMNANT II,635999,381599,40,Very Positive,84,35320
+86,Call of Duty,0,0,0,Mixed,58,572011
+87,Assetto Corsa,165999,165999,0,Very Positive,92,95211
+88,World of Tanks Blitz,0,0,0,Mostly Positive,79,139565
+89,Tom Clancy's Ghost Recon Wildlands,515000,515000,0,Very Positive,80,72087
+90,Terraria,90999,90999,0,Overwhelmingly Positive,97,1024004
+91,TEKKEN 8,699000,699000,0,Mostly Positive,70,20102
+92,Risk of Rain 2: Survivors of the Void,80999,52649,35,Very Positive,86,4536
+93,Dragon's Dogma 2,1043999,1043999,0,Mixed,60,61021
+94,Path of Exile,0,0,0,Very Positive,89,220620
+95,DayZ,550000,550000,0,Mostly Positive,76,322861
+96,Undisputed,427000,341600,20,Mostly Positive,72,12403
+97,Gatekeeper,130999,104799,20,Very Positive,88,485
+98,Pixel Gun 3D: PC Edition,0,0,0,Mixed,61,21924
+99,Albion Online,0,0,0,Mostly Positive,79,72382
+100,Monster Hunter: World,334999,334999,0,Very Positive,88,263459
+101,VRChat,0,0,0,Mostly Positive,74,216823
+102,SMITE,0,0,0,Mostly Positive,79,117167
+103,Hunt: Showdown,371999,167400,54,Very Positive,82,156659
+104,7 Days to Die,119999,119999,0,Very Positive,88,215558
+105,Escape the Backrooms,69999,69999,0,Very Positive,91,58399
+106,Party Animals,205000,205000,0,Mostly Positive,76,34697
+107,Call of Duty: Modern Warfare III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack,299000,299000,0,Mixed,66,12
+108,South Park: The Fractured But Whole,349000,69800,80,Very Positive,84,24361
+109,ROBOBEAT,108999,87199,20,Very Positive,98,427
+110,Vampire Survivors,44999,44999,0,Overwhelmingly Positive,98,218553
+111,Grounded,459000,459000,0,Very Positive,90,56021
+112,Returnal,879000,527400,40,Very Positive,81,3863
+113,Dying Light 2 Stay Human: Reloaded Edition,849000,849000,0,Mostly Positive,79,126676
+114,New World,666499,666499,0,Mostly Positive,70,234847
+115,Sekiro: Shadows Die Twice - GOTY Edition,891000,891000,0,Overwhelmingly Positive,95,204551
+116,Don't Starve Together,95999,95999,0,Overwhelmingly Positive,95,307311
+117,Cryptmaster,206999,186299,10,Very Positive,96,325
+118,The Outlast Trials,299999,299999,0,Very Positive,93,41282
+119,Destiny 2: The Final Shape,575000,575000,0,No Data,0,0
+120,ARK: Survival Evolved,130999,130999,0,Very Positive,83,518261
+121,Buckshot Roulette,28999,28999,0,Overwhelmingly Positive,95,19058
+122,The Binding of Isaac: Rebirth,95999,95999,0,Overwhelmingly Positive,97,258414
+123,Hogwarts Legacy,799000,799000,0,Very Positive,91,189517
+124,War Robots,0,0,0,Mixed,61,22185
+125,Garry's Mod,89999,89999,0,Overwhelmingly Positive,96,916851
+126,FOR HONOR,349000,349000,0,Mixed,69,88647
+127,Snowbreak: Containment Zone,0,0,0,Mostly Positive,78,2758
+128,Grand Theft Auto IV: The Complete Edition,210000,63000,70,Very Positive,81,133257
+129,Arma Reforger,379999,379999,0,Mixed,67,11184
+130,Brawlhalla,0,0,0,Very Positive,82,363279
+131,Destiny 2: Lightfall,349999,349999,0,Mostly Negative,30,7826
+132,Age of Empires II: Definitive Edition,108999,108999,0,Very Positive,94,126771
+133,No Rest for the Wicked,330000,330000,0,Mostly Positive,78,22418
+134,Evil West,459000,160650,65,Mostly Positive,74,6114
+135,BlazBlue Entropy Effect,165999,129479,22,Very Positive,93,16673
+136,Resident Evil 4,595999,595999,0,Overwhelmingly Positive,97,86559
+137,Pummel Party,130999,130999,0,Very Positive,89,39269
+138,Call of Duty: Modern Warfare III - BlackCell (Season 3),408000,408000,0,Mixed,59,159
+139,Granblue Fantasy: Relink,579000,579000,0,Very Positive,89,29781
+140,Battlefield 2042,659000,659000,0,Mixed,46,201814
+141,Total War: WARHAMMER III - Malakai – Thrones of Decay,97000,97000,0,Very Positive,87,779
+142,Limbus Company,0,0,0,Very Positive,82,31890
+143,Squad,209999,209999,0,Very Positive,83,131535
+144,Space Engineers,149999,149999,0,Very Positive,89,92192
+145,RuneScape ,0,0,0,Very Positive,83,23400
+146,World of Tanks,0,0,0,Very Positive,85,76356
+147,Starfield,759000,759000,0,Mixed,61,98054
+148,Rise of the Tomb Raider,325000,65000,80,Very Positive,94,101120
+149,Call to Arms - Gates of Hell: Ostfront,284999,284999,0,Very Positive,82,15214
+150,Total War: WARHAMMER III - Elspeth – Thrones of Decay,97000,97000,0,Very Positive,90,892
+151,Watch Dogs: Legion,619000,92850,85,Mixed,58,7184
+152,DAVE THE DIVER,165999,165999,0,Overwhelmingly Positive,97,90989
+153,GUILTY GEAR -STRIVE-,548900,548900,0,Very Positive,91,34394
+154,Watch_Dogs,229000,34350,85,Mostly Positive,76,37280
+155,Left 4 Dead 2,90999,90999,0,Overwhelmingly Positive,97,642290
+156,Last Epoch,284999,284999,0,Mostly Positive,77,84290
+157,The Crew 2,619000,123800,80,Very Positive,83,60014
+158,Warhammer 40000: Darktide,439999,439999,0,Mixed,67,77898
+159,Paint the Town Red,165999,82999,50,Overwhelmingly Positive,95,23751
+160,Dead Island 2,641000,641000,0,Mostly Positive,70,3787
+161,Dead Cells: Return to Castlevania,90999,72799,20,Very Positive,88,777
+162,Deep Rock Galactic: Survivor,90999,72799,20,Very Positive,85,22294
+163,Beat Saber,245999,245999,0,Overwhelmingly Positive,95,66058
+164,ULTRAKILL,206999,206999,0,Overwhelmingly Positive,98,100673
+165,Enter the Gungeon,130999,39299,70,Overwhelmingly Positive,95,70002
+166,Fallout 3: Game of the Year Edition,164900,164900,0,Very Positive,80,36333
+167,ARMORED CORE VI FIRES OF RUBICON,599000,599000,0,Very Positive,90,52682
+168,Shadow of the Tomb Raider: Definitive Edition,976000,107360,89,Very Positive,85,56481
+169,The Last of Us Part I,879000,879000,0,Mostly Positive,71,29942
+170,Hell Let Loose,399999,399999,0,Very Positive,84,78919
+171,Total War: WARHAMMER III - Tamurkhan – Thrones of Decay,97000,97000,0,Very Positive,92,656
+172,Halo: The Master Chief Collection,599000,599000,0,Very Positive,92,205942
+173,Gorilla Tag,165999,165999,0,Very Positive,93,18195
+174,It Takes Two,479000,479000,0,Very Positive,94,141171
+175,Myth of Empires,245999,245999,0,Mostly Positive,70,12794
+176,Deep Rock Galactic,139999,139999,0,Overwhelmingly Positive,97,230717
+177,Mount & Blade II: Bannerlord,549000,549000,0,Very Positive,88,189407
+178,V Rising - Sinister Evolution Pack,90999,90999,0,Very Positive,96,188
+179,Jurassic World Evolution 2: Park Managers' Collection Pack,109999,109999,0,Positive,97,34
+180,Call of Duty: Black Ops II,891000,891000,0,Very Positive,86,19024
+181,JoJo's Bizarre Adventure: All-Star Battle R,499000,149700,70,Very Positive,87,6542
+182,Arma 3,399999,399999,0,Very Positive,91,151548
+183,Crow Country,165999,165999,0,Overwhelmingly Positive,98,1402
+184,Immortals Fenyx Rising,459000,68850,85,Mostly Positive,70,2541
+185,Subnautica,350000,350000,0,Overwhelmingly Positive,96,243519
+186,Total War: WARHAMMER II,540999,540999,0,Very Positive,93,82803
+187,Killing Floor,135999,13599,90,Overwhelmingly Positive,96,36903
+188,The Forest,108999,108999,0,Overwhelmingly Positive,95,457669
+189,HITMAN World of Assassination,245999,245999,0,Very Positive,85,21735
+190,Among Us,42999,42999,0,Very Positive,92,600574
+191,SCUM,362000,362000,0,Mostly Positive,74,82173
+192,Conan Exiles,249999,249999,0,Mostly Positive,78,67680
+193,SIGNALIS,108999,76299,30,Overwhelmingly Positive,96,15792
+194,Risk of Rain Returns,130999,98249,25,Very Positive,90,23118
+195,Halo Infinite,0,0,0,Mostly Positive,70,170725
+196,Vigor,199000,199000,0,Mixed,55,485
+197,Total War: WARHAMMER III - Shadows of Change,270000,270000,0,Mostly Negative,37,3272
+198,Cuphead,135999,135999,0,Overwhelmingly Positive,96,142444
+199,ARK: Bob's Tall Tales,466084,466084,0,Mixed,56,447
+200,The Long Drive,139999,139999,0,Very Positive,91,29357
