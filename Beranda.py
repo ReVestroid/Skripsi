@@ -66,3 +66,6 @@ st.dataframe(df)
 if st.button("Update Scrap"):
     run_external_script()
     refresh_page()
+
+if __name__ == '__main__':
+    main()
