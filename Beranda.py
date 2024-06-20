@@ -14,7 +14,7 @@ def refresh_page():
     st.experimental_rerun()
 
 # Read the CSV file
-df = pd.read_csv(games_data.csv')
+df = pd.read_csv(/mount/src/skripsi/games_data.csv')
 
 # Display the CSV data
 st.subheader("Data CSV hasil Scrapt")
